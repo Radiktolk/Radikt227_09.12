@@ -14,7 +14,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace antonov227_09._12
+namespace Radik227_09._12
 {
     /// <summary>
     /// Логика взаимодействия для old_buhyn.xaml
